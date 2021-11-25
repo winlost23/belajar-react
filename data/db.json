@@ -1,0 +1,52 @@
+{
+  "blogs": [
+    {
+      "title": "My New Website",
+      "body": "This is my new website",
+      "author": "Yusuf",
+      "avatar": "https://i.ibb.co/PxkfQPX/github-avatar.png",
+      "id": 1
+    },
+    {
+      "title": "Welcome to My Web",
+      "body": "My web is from React",
+      "author": "Rizal",
+      "avatar": "https://i.ibb.co/PxkfQPX/github-avatar.png",
+      "id": 2
+    },
+    {
+      "title": "Web Development with React",
+      "body": "Learn React from the scratch",
+      "author": "Yusuf",
+      "avatar": "https://i.ibb.co/PxkfQPX/github-avatar.png",
+      "id": 3
+    },
+    {
+      "title": "React.js Top Tips",
+      "body": "React is so easy",
+      "author": "Rizal",
+      "avatar": "https://i.ibb.co/PxkfQPX/github-avatar.png",
+      "id": 4
+    },
+    {
+      "title": "React Hook",
+      "body": "Learn React Hook with useState",
+      "author": "James",
+      "avatar": "https://i.ibb.co/PxkfQPX/github-avatar.png",
+      "id": 5
+    },
+    {
+      "title": "Fecth Hook",
+      "body": "Learn React Hook with useState",
+      "author": "Unggul",
+      "avatar": "https://i.ibb.co/PxkfQPX/github-avatar.png",
+      "id": 6
+    },
+    {
+      "title": "sfsdf",
+      "body": "sfdsfdsf",
+      "author": "Rizal",
+      "id": 7
+    }
+  ]
+}
